@@ -7,11 +7,22 @@ A simple web application to visualize stock market data.
 ✔️ Click on a company to see a **stock price chart**.  
 ✔️ Responsive UI using **Bootstrap**.  
 ✔️ Uses **Chart.js** for stock data visualization.  
+create  frontend folder
+index.html
+chart.js
+script.js
+styles.css
+
 
 ## 📌 Setup Instructions
 
 ### **1️⃣ Start Backend**
 Run the backend using **Node.js**:
+Download all dependencies for backend
+npm init -y
+npm i
+cors
+
 ```sh
 node server.js
 ![image](https://github.com/user-attachments/assets/b74d9cd1-55c7-4c5a-9f39-d48df79dce1f)
