@@ -14,3 +14,4 @@ A simple web application to visualize stock market data.
 Run the backend using **Node.js**:
 ```sh
 node server.js
+![image](https://github.com/user-attachments/assets/b74d9cd1-55c7-4c5a-9f39-d48df79dce1f)
